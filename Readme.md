@@ -1,4 +1,4 @@
-# ecommerce-website
+# Mail API
 
 <body>
 This project is apart of Harvard's CS50 Intro to Web Devolpment course
